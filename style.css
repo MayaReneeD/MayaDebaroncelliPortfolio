@@ -141,5 +141,9 @@ footer {
 .work img {
     margin: 2%;
     width: 90%;
+    max-height: 200px;
 }
+
+
+
 }
